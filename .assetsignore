@@ -1,0 +1,33 @@
+# Environment
+.env
+.env.*
+
+# GIT
+.gitignore
+.git/
+.github/
+
+# JSON
+components.json
+package-lock.json
+package.json
+jsconfig.json
+
+# Javascript
+eslint.config.js
+postcss.config.js
+tailwind.config.js
+vite.config.js
+
+# Wrangler
+wrangler.toml
+
+# Others
+LICENSE
+README.md
+
+# Node
+node_modules/
+
+# Rsync
+.rsyncignore
